@@ -35,11 +35,10 @@ function getCount(str) {
 ## Education
 * **University:** Odesa Mechnikov National University, Computer Engineering
 * **Udemy:** 
-    - [HTML/CSS](https://www.udemy.com/course/webdeveloper/"") 
-    - [JavaScritp+React (in process…)](https://www.udemy.com/course/javascript_full/"")
+    + [HTML/CSS](https://www.udemy.com/course/webdeveloper/"") 
+    + [JavaScritp+React (in process…)](https://www.udemy.com/course/javascript_full/"")
 * **QATestLab** : [The Fundamentals of Software Testing](https://training.qatestlab.com/"")
 ## Languages
 * **Ukrainian** - native
 * **Russian** - native
 * **English** - Intermediate
-
