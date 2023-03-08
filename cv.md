@@ -3,7 +3,6 @@
 + **Location**: Odesa, Ukraine
 + **E-mail**: krychunoleksandr@gmail.com 
 + **Phone**: +380501016668 
-+ **Discord**: PEREDOZ#0582 (@KrychunO) 
 + **GitHub**: [@KrychunO](https://github.com/KrychunO "")
 
 ## About Me
