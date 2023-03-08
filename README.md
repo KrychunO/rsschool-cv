@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://krychuno.github.io/rsschool-cv/cv
